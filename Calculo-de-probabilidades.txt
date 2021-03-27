@@ -1,0 +1,15 @@
+Cálculo de probabilidaes:
+    - Se mide entre 0 y 1.
+    - Si es 0, no sucederá
+    - Si es 1, sucederá
+
+- P(A) + P(-A) = 1
+    Ley del complemento
+
+- P(A y B) = P(A) * P(B)   => (Sí y solo si son eventos independientes)
+    Ley multiplicativa
+
+- P(A o B) = P(A) + P(B) (mutuamente excluyentes)
+-P(A o B) = P(A) + P(B) - P(A - B) (No exclusivos)
+    Ley aditiva
+
